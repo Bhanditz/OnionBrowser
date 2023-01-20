@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
 gem "plist"
-gem 'activesupport'
-gem "cocoapods"
+gem 'activesupport', '>= 6.1.7.1'
+gem "cocoapods", ">= 1.11.0"
